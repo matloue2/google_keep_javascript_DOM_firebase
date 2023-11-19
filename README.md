@@ -1,0 +1,1 @@
+In this project, I worked on adding features on google keep I built using HTML and CSS. The features were added using mainly Javascript and did a bit of changes on CSS and HTML to improve the code.

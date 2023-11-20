@@ -8,8 +8,8 @@ class Note {
 
 class App {
     constructor() {
-        // localStorage.setItem('test', JSON.stringify(['123']));
-        // console.log(JSON.parse(localStorage.getItem('test')));
+        //localStorage.setItem('test', JSON.stringify(['123']));
+        //console.log(JSON.parse(localStorage.getItem('test')));
         this.notes = [];
         console.log(this.notes);
         this.selectedNoteId = ""
